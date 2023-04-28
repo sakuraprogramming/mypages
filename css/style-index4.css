@@ -1,0 +1,11 @@
+.main img {
+    width: 600px;
+    height: 450px;
+}
+
+.main {
+    width: 600px;
+    height: 450px;
+    margin: 0 auto;
+    box-shadow: 10px 10px 10px black;
+}
